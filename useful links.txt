@@ -1,0 +1,71 @@
+
+
+HTML / CSS
+
+HTML DOM Element Object properties and methods
+https://www.w3schools.com/jsref/dom_obj_all.asp
+
+HTML Input attributes
+https://www.w3schools.com/html/html_form_attributes.asp
+https://www.wufoo.com/html5/minlength-attribute/
+
+
+CSS frameworks
+https://hackernoon.com/top-5-most-popular-css-frameworks-that-you-should-pay-attention-to-in-2017-344a8b67fba1
+
+
+
+
+
+Javascript / TypeScript
+
+truthy / falsy
+https://www.sitepoint.com/javascript-truthy-falsy/
+
+ternary operator
+https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff
+
+string methods
+https://www.w3schools.com/js/js_string_methods.asp
+https://www.sitepoint.com/15-javascript-string-functions/
+
+array methods
+https://www.w3schools.com/jsref/jsref_obj_array.asp
+https://javascript.info/array-methods
+
+
+Object.assign()
+https://angular-2-training-book.rangle.io/handout/immutable/javascript-solutions/object_assign.html
+
+Local storage
+https://www.w3schools.com/jsref/prop_win_localstorage.asp
+
+Angular 
+
+Types of event binding for angular event binding
+https://coursetro.com/posts/code/59/Angular-4-Event-Binding
+
+Angular validators
+https://angular.io/api/forms/Validators
+https://angular-templates.io/tutorials/about/angular-forms-and-validations
+
+
+Controlling tests which run in Jasmine / Karma
+https://thejsguy.com/2016/01/03/controlling-which-tests-run-in-jasmine.html
+
+
+New features in Angular 6
+https://www.angularminds.com/blog/article/whats-new-features-and-improvements-in-angular-6.html
+https://dzone.com/articles/angular-6-release-vs-angular-5-new-features-and-im
+https://blog.ninja-squad.com/2018/05/04/angular-cli-6.0/
+
+
+Upgrading Angular 5 to 6
+https://stackoverflow.com/questions/48970553/want-to-upgrade-project-from-angular-v5-to-angular-v6
+https://update.angular.io/
+http://www.talkingdotnet.com/upgrade-angular-5-app-angular-6-visual-studio-2017/
+
+
+
+
+
